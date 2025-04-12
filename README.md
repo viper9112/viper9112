@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @viper9112
-- 👀 I’m interested in ... video games learning money
-- 🌱 I’m currently learning ... comtia A+
+- 👋 Hi, I’m Jonathan Ruiz
+- 👀 I’m interested in ... video games 
+- 🌱 I’m currently learning ... Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jonathanmike911@gmail.com
 
